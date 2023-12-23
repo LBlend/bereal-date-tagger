@@ -1,5 +1,6 @@
 [package]
 name = "bereal-date-tagger"
+authors = ["LBlend <leanderfurumo@protonmail.com>"]
 version = "0.1.0"
 edition = "2021"
 
